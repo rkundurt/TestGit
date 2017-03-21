@@ -1,1 +1,2 @@
-This is my text file for git repository
+This is my text file for git repository. 
+I am about to learn githu.My desire to learn git should be to achieve a competetive job. 
